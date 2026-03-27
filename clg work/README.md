@@ -52,6 +52,10 @@ closing comment-->
 
 [![Daksh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdakshjain&theme=dracula&area=true&hide_border=true)](https://github.com/itsdakshjain)
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/itsdakshjain/itsdakshjain?style=flat-square&color=70a5fd&label=Profile+Last+Updated" alt="Last Commit">
+</p>
+
 <!--   commenting tokyonight theme if not like in future can change 
 
 ## 📈 GitHub Stats
