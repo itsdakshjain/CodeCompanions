@@ -16,7 +16,7 @@
 </div>
 
 
-<table border="0">
+<table border="0" align="center">
   <tr>
     <td width="45%" valign="top">
       <h2>🤵 About Me:</h2>
@@ -33,9 +33,14 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github.com/itsdakshjain/itsdakshjain/blob/output/github-snake-dark_5_pink_pink.svg" alt="Snake Animation" />
+</div>
 
+<div align="center">
+  <img src="https://github.com/itsdakshjain/itsdakshjain/blob/output/github-snake-dark_4_pink_green.svg" alt="Snake Animation" />
+</div>
 
-![snake gif](https://github.com/itsdakshjain/itsdakshjain/blob/output/github-snake-dark.svg)
 
 <!--   commenting if not like in future can change
 
