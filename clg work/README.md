@@ -16,7 +16,6 @@
 </div>
 
 
-
 <table border="0">
   <tr>
     <td width="45%" valign="top">
@@ -33,6 +32,10 @@
     </td>
   </tr>
 </table>
+
+
+
+![snake gif](https://github.com/itsdakshjain/itsdakshjain/blob/output/github-snake-dark.svg)
 
 <!--   commenting if not like in future can change
 
