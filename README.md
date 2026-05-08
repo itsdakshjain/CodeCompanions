@@ -30,3 +30,11 @@ While this repo is chaotic, the infrastructure behind it is production-grade. I'
 *   **Automated CI Pipeline:** Every Pull Request is automatically vetted by a GitHub Actions runner on Ubuntu.
 *   **Regression Testing:** A dedicated `test_core.py` suite ensures that new "chaos" doesn't accidentally break the fundamental proof of 1.
 *   **Branch Management:** Utilizing a professional Issue-to-PR workflow to manage community contributions.
+
+
+
+![GitHub License](https://img.shields.io/github/license/darshil0/skytrack?style=flat-square&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/darshil0/skytrack?style=flat-square&color=green)
+![GitHub top language](https://img.shields.io/github/languages/top/darshil0/skytrack?style=flat-square&color=typescript)
+![Vite Version](https://img.shields.io/badge/Vite-8.0-646CFF?style=flat-square&logo=vite)
+![React Version](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react)
